@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>REAL ESTATE</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style19.css" type="text/css">
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  	 
+	
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">REAL ESTATE <mark>24</mark></a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">HOME</a></li>
+      <li><a href="#">ABOUT US</a></li>
+      <li><a href="#">OUR SERVICES</a></li>
+      <li><a href="#">BLOG</a></li>
+      <li><a href="#">CONTACTS</a></li>
+    </ul>
+  </div>
+</nav><div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li
+    ><li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="project_1.jpg"alt="Chania" height="600px" width="100%">
+      <div class="carousel-caption">
+        <h3>Los Angeles</h3>
+        <p>LA is always so much fun!</p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="project_2.jpg" alt="Chicago" height="600px" width="100%">
+      <div class="carousel-caption">
+        <h3>Chicago</h3>
+        <p>Thank you, Chicago!</p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="project_4.jpg"style="width:100%" alt="New York" height="600px" width="100%">
+      <div class="carousel-caption">
+        <h3>New York</h3>
+        <p>We love the Big Apple!</p>
+      </div>
+    </div>
+   <div class="item">
+      <img src="project_6.jpg" alt="USA" height="600px" width="100%">
+      <div class="carousel-caption">
+        <h3>USA</h3>
+        <p>We love the usa! </p>
+      </div>
+    </div>
+</div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span> 
+      </button>
+      <a class="navbar-brand" href="#"></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">All</a></li>
+        <li><a href="#">For Sale</a></li>
+        <li><a href="#">For Rent</a></li> 
+   
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="container">
+  <h1 style="text-align:center">OUR BEST OFFERS</h1>
+  
+
+ <div class="row">
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="/w3images/lights.jpg">
+      <img class="img-responsive">
+        <img src="image4.jpg" alt="Lights" style="width:100%" height="200px">
+        <div class="caption">
+        <h1 style="text-align:center">AUE NEC AUGENT</h1>
+          <p>With immense flower heads, hydrangeas flaunt an old-fashioned charm that is hard to resist. Unrivaled in the shrub world for beautiful flowers, the elegant ladies are easy to cultivate, tolerate almost any soil, and produce abundant blooms. Colors beguile with clear blues, vibrant pinks, frosty whites, lavender, and rose—sometimes all blooming on the same plant!
+</p>
+<h2 style="text-align:center" color:blue><mark>$320.000<mark></h2>        
+</div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="/w3images/nature.jpg">
+      <img class="img-responsive">
+        <img src="image4.jpg" alt="Nature" style="width:100%" height="200px">
+        <div class="caption">
+        <h1 style="text-align:center">UT PHARETRA</h1>
+          <p>With immense flower heads, hydrangeas flaunt an old-fashioned charm that is hard to resist. Unrivaled in the shrub world for beautiful flowers, the elegant ladies are easy to cultivate, tolerate almost any soil, and produce abundant blooms. Colors beguile with clear blues, vibrant pinks, frosty whites, lavender, and rose—sometimes all blooming on the same plant!</p>
+ <h2 style="text-align:center" color:blue><mark>$240.000<mark></h2>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="/w3images/fjords.jpg">
+      <img class="img-responsive">
+        <img src="image5.jpg" alt="Fjords" style="width:100%" height="200px">
+        <div class="caption">
+        <h1 style="text-align:center">PHARETRA AUE</h1>
+          <p>With immense flower heads, hydrangeas flaunt an old-fashioned charm that is hard to resist. Unrivaled in the shrub world for beautiful flowers, the elegant ladies are easy to cultivate, tolerate almost any soil, and produce abundant blooms. Colors beguile with clear blues, vibrant pinks, frosty whites, lavender, and rose—sometimes all blooming on the same plant!</p>
+           <h2 style="text-align:center" color:blue><mark>$360.000</mark></h2>
+        </div>
+      </a>
+    </div></div>
+  </div>
+</div>
+
+<div class="container-fluid">
+<pre><h1>GET STARTED ON BUYING YOUR NEW HOME!<br>FIND YOUR AGENT!</h1>&nbsp;&nbsp;&nbsp;&nbsp;<mark>CLICK HERE<mark></pre>
+</div>
+<div class="container-fluid">
+<div class="footer">
+ <h1> Links</h1>
+  <hr>
+  <h3>Home</h3>
+  <h3>About</h3>
+ <h3> Contact Us</h3>
+  
+ <h1>Others<h1>
+ <hr>
+<h3> Privacy Policy</h3>
+<h3>Terms & Conditions</h3>
+<h3> FAQ</h3>
+<h3> Support</h3>
+</div>
+</div>
+<form action="/action_page.php">
+  <div class="container">
+    <h1>Register</h1>
+    <p>Please fill in this form to create an account.</p>
+    <hr>
+
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+    <hr>
+    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+
+    <button type="submit" class="registerbtn">Register</button>
+  </div>
+  
+  <div class="container signin">
+    <p>Already have an account? <a href="#">Sign in</a>.</p>
+  </div>
+</form>
+
+</body>
+</html>
